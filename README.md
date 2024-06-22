@@ -1,3 +1,10 @@
+* Title: Point of Sale (POS) Software
+* Description: Point of Sale (POS) Software
+* Author: MD Saymum Islam Siyam (CodeSQL)
+* Email: si31siyam@gmail.com
+* Portfolio: https://siyam70.netlify.app/
+* Date: 14/05/24
+
 
 # Point of Sale (POS) Software
 
