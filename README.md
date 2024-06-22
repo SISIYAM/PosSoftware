@@ -3,7 +3,8 @@
 * Author: MD Saymum Islam Siyam (CodeSQL)
 * Email: si31siyam@gmail.com
 * Portfolio: https://siyam70.netlify.app/
-* Date: 14/05/24
+* Facebook: https://www.facebook.com/SaymumIslamSiyam70/
+* Date: 24/05/24
 
 
 # Point of Sale (POS) Software
