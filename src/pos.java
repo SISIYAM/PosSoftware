@@ -29,10 +29,10 @@ import javax.swing.table.DefaultTableModel;
  */
 public class pos extends javax.swing.JFrame {
 
-     // mysql data base 
-   String url = "jdbc:mysql://103.148.14.130:3306/ahmmedim_posPro";
-   String user = "ahmmedim_siyam";
-   String password = "yeTzcWePNPYS";
+   // mysql data base 
+   String url = db.getUrl();
+   String user = db.getUser();
+   String password = db.getPass();
    
    int invoiceNo;
    String formattedDate;

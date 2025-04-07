@@ -18,16 +18,19 @@ import javax.swing.table.DefaultTableModel;
  */
 public class login extends javax.swing.JFrame {
 
+    // get data from db class
+   
+    
    // mysql data base 
-   String url = "jdbc:mysql://103.148.14.130:3306/ahmmedim_posPro";
-   String user = "ahmmedim_siyam";
-   String password = "yeTzcWePNPYS";
+   String url = db.getUrl();
+   String user = db.getUser();
+   String password = db.getPass();
    
    
     public login() {
         initComponents();
         Image icon = new ImageIcon(this.getClass().getResource("/6.png")).getImage(); 
-        this.setIconImage(icon);
+        this.setIconImage(icon); 
     }
 
     /**
